@@ -1,1 +1,1 @@
-# 2025_seminer_thesis_outline_FukaOkamura
+#2025年ゼミ論/構想発表
