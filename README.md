@@ -5,6 +5,7 @@
 台北周辺における観光地巡りの最適化
 ## 概要
 台北市およびその周辺は、地下鉄や鉄道網が発達しており、主要な観光地へのアクセスは比較的容易である。しかし、観光客が限られた滞在期間の中で効率的に観光地を巡ろうとすると、移動に過度な時間を要したり、同じ路線を往復するなど非効率な行程を組んでしまう場合がある。本研究では、鉄道網や観光地の位置関係を考慮し、短期間（例：2泊3日）で最大限の満足度を得られる観光ルートの最適化を試みる。
+
 The Taipei metropolitan area has a well-developed metro and railway network, providing relatively easy access to major tourist attractions. However, when visitors try to make the most of their limited stay, they often end up spending excessive time on transportation or planning inefficient itineraries, such as repeatedly traveling along the same route. This study seeks to optimize sightseeing routes by taking into account the railway network and the geographical distribution of attractions, with the aim of maximizing visitor satisfaction within a short stay (e.g., a three-day, two-night trip).
 ## 研究目的
 - 台北における観光地巡りにおいて、移動効率と観光満足度の両立を図るモデルを提示すること。
